@@ -2,21 +2,25 @@
   "data": [
     {
       "name": "SmartPhone",
+      "image": "https://m.media-amazon.com/images/I/71w3oJ7aWyL._AC_UY327_FMwebp_QL65_.jpg",
       "price": 30,
       "id": 0
     },
     {
       "name": "Watch",
+      "image": "https://m.media-amazon.com/images/I/61IMRs+o0iL._AC_UL480_FMwebp_QL65_.jpg",
       "price": 20,
       "id": 1
     },
     {
       "name": "Shirt",
+      "image": "https://m.media-amazon.com/images/I/41TxNIo3cQL._AC_UL480_FMwebp_QL65_.jpg",
       "price": 50,
       "id": 2
     },
     {
       "name": "Pants",
+      "image": "https://m.media-amazon.com/images/I/616xchp1ECL._AC_UL480_FMwebp_QL65_.jpg",
       "price": 100,
       "id": 3
     }
